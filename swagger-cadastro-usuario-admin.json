@@ -3,7 +3,7 @@
   "info": {
     "title": "API - Web System AVA - Giselle Almeida Fiuza",
     "version": "1.0.0",
-    "description": "O sistema web a ser desenvolvido trata-se de um Ambiente Virtual de Aprendizagem (AVA) que possibilita o cadastro de usuários administradores do sistema, cadastro dos cursos oferecidos, cadastro de alunos e matricula dos alunos nos cursos.""
+    "description": "O sistema web a ser desenvolvido trata-se de um Ambiente Virtual de Aprendizagem (AVA) que possibilita o cadastro de usuários administradores do sistema, cadastro dos cursos oferecidos, cadastro de alunos e matricula dos alunos nos cursos."
   },
   "paths": {
     "/api/usuarioAdm/cadastrar": {
