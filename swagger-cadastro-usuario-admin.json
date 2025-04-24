@@ -1,7 +1,7 @@
 {
   "openapi": "3.0.3",
   "info": {
-    "title": "API - Cadastro de Usuário Administrador do Sistema",
+    "title": "API - Web System AVA",
     "version": "1.0.0",
     "description": "API para cadastro de usuários com perfil Administrador no sistema da empresa GiselleAlmeidaFiuza."
   },
